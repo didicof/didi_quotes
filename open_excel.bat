@@ -1,4 +1,0 @@
-@echo off
-start excel
-
-
